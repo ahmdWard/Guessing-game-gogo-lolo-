@@ -2,7 +2,7 @@
 
 Welcome to the Number Guessing Game! This game challenges you to guess a randomly generated number between 1 and 100 within a limited number of attempts. The game offers multiple difficulty levels, a hint system, and tracks high scores to make your experience more exciting.
 
-From (roadmap.sh)[https://roadmap.sh/projects/number-guessing-game]
+From [roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 
 ## Features 
 
